@@ -1,3 +1,4 @@
+--กิติธัช ไชยสัจ 67040249108
 select * from Employees
 select ProductID as รหัสสินค้า , ProductName as ชื่อสินค้า, UnitsInStock as จำนวนสินค้า,unitprice as ราคาสินค้า,
 Unitprice  * Unitsinstock as StockValue from Products
